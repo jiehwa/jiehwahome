@@ -1,0 +1,33 @@
+{
+  "name": "jiehwahome",
+  "version": "1.0.0",
+  "description": "jiehwa's homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jiehwa/jiehwahome.git"
+      },
+      "keywords": [
+      "website",
+      "based",
+      "on",
+      "nodejs"
+      ],
+      "author": "jiehwa@bbk",
+      "license": "ISC",
+      "bugs": {
+        "url": "https://github.com/jiehwa/jiehwahome/issues"
+        },
+        "homepage": "https://github.com/jiehwa/jiehwahome",
+        "devDependencies": {
+          "grunt": "^0.4.5",
+          "grunt-contrib-jshint": "~0.10.0",
+          "grunt-contrib-nodeunit": "~0.4.1",
+          "grunt-contrib-uglify": "~0.5.0",
+          "grunt-contrib-watch":"",
+          "grunt-contrib-concat":""
+        }
+      }
